@@ -48,3 +48,7 @@ full-stack
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italoasd&layout=compact&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
 
 
+![snake gif](https://github.com/italoasd/snk/raw/output/github-contribution-grid-snake.svg)
+
+
+
